@@ -3,5 +3,5 @@ About html css javascript.
 
 ## For What?
 
-Just Study
+Just Study!
 
